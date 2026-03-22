@@ -6,7 +6,7 @@ Thank you for your interest in contributing! This document provides guidelines f
 
 ### Reporting Bugs
 
-1. Check existing [issues](https://github.com/ichbinheimdall/musician-bot/issues) to avoid duplicates
+1. Check existing [issues](https://github.com/umutguden/musician-bot/issues) to avoid duplicates
 2. Use a clear, descriptive title
 3. Include steps to reproduce the issue
 4. Describe expected vs actual behavior
