@@ -7,10 +7,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/umutguden/musician-bot.git"
+    "url": "https://github.com/hmddevs/discord-music-player.git"
   },
   "bugs": {
-    "url": "https://github.com/umutguden/musician-bot/issues"
+    "url": "https://github.com/hmddevs/discord-music-player/issues"
   },
   "keywords": [
     "discord",
