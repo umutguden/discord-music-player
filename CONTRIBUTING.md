@@ -4,7 +4,7 @@ Contributions are welcome. This document provides guidelines for contributing to
 
 ## Reporting Bugs
 
-1. Check existing [issues](https://github.com/hmddevs/discord-music-player/issues) to avoid duplicates.
+1. Check existing [issues](https://github.com/umutguden/discord-music-player/issues) to avoid duplicates.
 2. Use a clear, descriptive title.
 3. Include steps to reproduce the issue.
 4. Describe expected versus actual behaviour.
