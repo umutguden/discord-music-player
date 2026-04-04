@@ -31,7 +31,7 @@ sudo apt install ffmpeg
 ## Quick Start
 
 ```bash
-git clone https://github.com/umutguden/discord-music-player.git
+git clone https://github.com/hmddevs/discord-music-player.git
 cd discord-music-player
 npm install
 
